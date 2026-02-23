@@ -52,6 +52,6 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 ### 📫 Let's Connect!
 - 📧 **Email:** ecb0523@gmail.com
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/elijah-bastien-106289392/
-- 💬 **Ask me about:** Threat detection, SIEM tools, or my work in Haiti.
+- 💬 **Ask me about:** Threat detection, SIEM tools, or my non-profit work in Haiti.
 
 ---
