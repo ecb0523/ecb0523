@@ -45,7 +45,7 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 ---
 
 ### 📊 Security Visualizations
-* **[Phishing Click-Rate Dashboard](link-to-repo):** Created visual data representations of phishing susceptibility across different organizational departments (HR, Media, Global Security) to drive targeted security awareness training.
+* **[Phishing Click-Rate Dashboard](Phishing_Dashboard.pdf):** Created visual data representations of phishing susceptibility across different organizational departments (HR, Media, Global Security) to drive targeted security awareness training.
 
 ---
 
