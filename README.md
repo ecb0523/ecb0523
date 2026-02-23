@@ -28,9 +28,9 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 ### 📂 Featured Cybersecurity Projects
 
 #### 🐍 Automation & Data Security
-* **[Python Allow-List Algorithm](link-to-repo):** Developed a Python script to automate the management of restricted IP addresses. The algorithm parses an external text file, identifies unauthorized IPs using a loop, and updates the "allow list" dynamically.
-* **[SQL Security Filtering](link-to-repo):** Investigated potential security incidents by writing complex SQL queries (AND, OR, NOT, LIKE) to filter failed login attempts after hours and track suspicious employee machine activity.
-* **[Linux File Permissions Audit](link-to-repo):** Conducted a deep dive into Linux filesystem security, managing user/group/other permissions (chmod) and securing hidden files to enforce the Principle of Least Privilege.
+* **[Python Allow-List Algorithm]:** Developed a Python script to automate the management of restricted IP addresses. The algorithm parses an external text file, identifies unauthorized IPs using a loop, and updates the "allow list" dynamically.
+* **[SQL Security Filtering]:** Investigated potential security incidents by writing complex SQL queries (AND, OR, NOT, LIKE) to filter failed login attempts after hours and track suspicious employee machine activity.
+* **[Linux File Permissions Audit]:** Conducted a deep dive into Linux filesystem security, managing user/group/other permissions (chmod) and securing hidden files to enforce the Principle of Least Privilege.
 
 #### 🕵️ Incident Response & Threat Analysis
 * **[Network Traffic Analysis (SYN Flood)]:** Analyzed packet captures using **tcpdump** to identify a SYN Flood DoS attack. Documented the TCP three-way handshake failure and recommended firewall rate-limiting rules.
