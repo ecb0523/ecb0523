@@ -25,7 +25,7 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 
 ---
 
-### 📂 Featured Cybersecurity Projects
+### 📂 Featured Cybersecurity Projects: [View Projects] | (https://github.com/ecb0523/Cybersecurity-Portfolio)
 
 #### 🐍 Automation & Data Security
 * **[Python Allow-List Algorithm]:** Developed a Python script to automate the management of restricted IP addresses. The algorithm parses an external text file, identifies unauthorized IPs using a loop, and updates the "allow list" dynamically.
