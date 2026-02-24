@@ -9,7 +9,7 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 - 🎓 **Education:** B.S. in Computer Science (Information Security)
 - 🏆 **Academic:** 4.0 Cumulative GPA | President's List
 - 🏢 **Professional:** Security Awareness & Threat Detection Analyst at Casim Ministry
-- 📜 **Certifications:** Google Cybersecurity Professional, Cisco Intro to Cybersecurity (CompTIA Security+ Expected 05/2026)
+- 📜 **Certifications:** **Google Cybersecurity Professional** | [Certificate of Completion](https://www.coursera.org/account/accomplishments/professional-cert/LBVIEQH22SPC), **Cisco Intro to Cybersecurity** | [Verified Badge on Credly](https://www.credly.com/badges/880eb147-d6a6-4fb0-ad45-7939075b3299) (CompTIA Security+ Expected 05/2026)
 - 🌐 **Languages:** English (Native), Haitian Creole (Fluent)
 
 ---
