@@ -1,6 +1,6 @@
 # Hi there, I'm Elijah Bastien 👋
 
-### 🛡️ Cybersecurity & Computer Science Student | 4.0 GPA
+### 🛡️ Cybersecurity & Computer Science Student | 3.9 GPA
 I am a Computer Science student at **Southern New Hampshire University** (Graduating November 2026) specializing in **Information Security**. My background includes hands-on experience in threat detection, network analysis, and security automation.
 
 ---
