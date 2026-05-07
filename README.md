@@ -20,9 +20,10 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 | Security & Analysis | Programming & Data | Systems & Tools |
 | :--- | :--- | :--- |
 | Threat Detection | Python (Security Automation) | Linux (CLI & Permissions) |
-| Incident Response | SQL (Data Filtering) | Splunk & Google SecOps |
-| Risk Assessment | Java, C, C++ | SIEM / TCPDump / Wireshark |
-| Compliance (PCI DSS, GDPR) | Vulnerability Scanning | Windows & Firewall Config |
+| Incident Response | SQL (Data Filtering) | Splunk & Chronicle SIEM |
+| Risk Assessment | Java, C, C++ | Google Security Operations |
+| Compliance (PCI DSS, GDPR) | Vulnerability Scanning | SIEM / TCPDump / Wireshark |
+| Cloud Security (GCP) | IAM & VPC Hardening | Windows & Firewall Config |
 
 ---
 
@@ -42,12 +43,25 @@ I am a Computer Science student at **Southern New Hampshire University** (Gradua
 * **[Botium Toys Security Audit]:** Performed a comprehensive risk assessment and compliance audit for an e-commerce company, aligning their security posture with **PCI DSS**, **GDPR**, and **SOC type 2** standards.
 * **[NIST Risk Register & Assessment]:** Developed a professional risk register for a financial institution, calculating risk priority scores based on likelihood and severity for threats like Business Email Compromise (BEC).
 * **[Vulnerability Assessment Report]:** Conducted a systematic review of a MySQL database server, identifying high-risk exfiltration paths and implementing a remediation strategy involving TLS encryption and MFA.
-
+  
+ #### ☁️ Google Cloud Security
+ 
+* **Identity & Access Management (IAM)**
+    * **[GCP IAM Audit]:** Applied the Principle of Least Privilege by auditing service accounts and configuring custom IAM roles.
+    * *Labs:* IAM Custom Roles, Service Accounts and Roles, Managing Resource Hierarchy.
+* **Network Security & VPC Hardening**
+    * **[VPC Network Hardening]:** Configured VPC firewall rules to restrict traffic flow and protect sensitive cloud-native database instances.
+    * *Labs:* VPC Firewalls, Configuring Private Google Access, Cloud NAT Setup.
+* **Threat Detection & Monitoring**
+    * **[Cloud Threat Detection]:** Leveraged **Google Security Command Center (SCC)** and **Chronicle** to identify misconfigurations and monitor for unauthorized activity.
+    * *Labs:* Setting up SCC, Cloud Logging & Monitoring, Chronicle SIEM Investigation.
+* **Data & Asset Protection**
+    * **[Cloud Data Loss Prevention]:** Implemented de-identification and inspection templates to protect PII within cloud storage.
+    * *Labs:* Cloud Storage Security, Cloud DLP API implementation.
 ---
 
 ### 📊 Security Visualizations
 * **[Phishing Click-Rate Dashboard]:** Created visual data representations of phishing susceptibility across different organizational departments (HR, Media, Global Security) to drive targeted security awareness training.
-
 ---
 
 ### 📫 Let's Connect!
